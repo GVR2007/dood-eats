@@ -1,0 +1,17 @@
+﻿src/data/mockDatabase.ts(1,10): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/mockDatabase.ts(1,16): error TS1484: 'Restaurant' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/mockDatabase.ts(1,28): error TS1484: 'MenuItem' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/mockDatabase.ts(1,38): error TS1484: 'Order' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/AdminDashboard.tsx(4,10): error TS1484: 'MenuItem' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/AdminDashboard.tsx(4,10): error TS6133: 'MenuItem' is declared but its value is never read.
+src/pages/AdminDashboard.tsx(4,20): error TS1484: 'OrderStatus' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Login.tsx(4,1): error TS6133: 'User' is declared but its value is never read.
+src/pages/Login.tsx(4,10): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Orders.tsx(3,10): error TS1484: 'OrderStatus' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/pages/Restaurant.tsx(9,46): error TS6133: 'removeFromCart' is declared but its value is never read.
+src/store/useAppStore.ts(2,10): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/store/useAppStore.ts(2,16): error TS1484: 'Restaurant' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/store/useAppStore.ts(2,28): error TS1484: 'MenuItem' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/store/useAppStore.ts(2,38): error TS1484: 'Order' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/store/useAppStore.ts(2,45): error TS1484: 'CartItem' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/store/useAppStore.ts(2,55): error TS1484: 'OrderStatus' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
